@@ -8,23 +8,23 @@ full-stack dev and sysadmin based in india. i build web apps, automate things, a
 
 ## 🔧 what i actually build
 
-- **web apps** — full-stack app with React/Next.js + Node.js/Express backend, TypeScript, PostgreSQL/SQLite for database
-- **devops stuff** — Docker, GitHub Actions CI/CD, Azure, AWS, Nginx, PM2, Cloudflare
-- **automation** — WhatsApp bots, scheduled jobs, webhook pipelines, n8n
-- **sysadmin** — Been using linux for server since 3 years, fail2ban, SSH config, server monitoring, uptime-kuma
+- **web apps**: full-stack app with React/Next.js + Node.js/Express backend, TypeScript, PostgreSQL/SQLite for database
+- **devops stuff**: Docker, GitHub Actions CI/CD, Azure, AWS, Nginx, PM2, Cloudflare
+- **automation**: WhatsApp bots, scheduled jobs, webhook pipelines, n8n
+- **sysadmin**: Been using linux for server since 3 years, fail2ban, SSH config, server monitoring, uptime-kuma
 
 ---
 
 ## 🚀 things i've shipped
 
-**[Sadhna MSP Portal](https://github.com/alivec0rpse/sadhna-msp-portal)** — multi-tenant SaaS for coaching institutes.
+**[Sadhna MSP Portal](https://github.com/alivec0rpse/sadhna-msp-portal)**: multi-tenant SaaS for coaching institutes.
 fee tracking, attendance, WhatsApp automation, OTP auth, invoice PDF generation, per-tenant WhatsApp instances.
 React + TypeScript + Express + SQLite. Docker image on Docker Hub. CI/CD via GitHub Actions.
 
-**[Shldnet](https://github.com/alivec0rpse/shldnet-site-v2)** — agency website with WebGL dot shader background,
+**[Shldnet](https://github.com/alivec0rpse/shldnet-site-v2)**: agency website with WebGL dot shader background,
 Three.js animations, mouse-tracking effects. Next.js 15 + React Three Fiber + Motion.
 
-**[Warsi Service Center](https://warsi.qzz.io)** — production site for a local auto workshop.
+**[Warsi Service Center](https://warsi.qzz.io)**: production site for a local auto workshop.
 Astro + Tailwind, custom domain, GitHub Pages deployment, SEO optimized.
 
 ---
@@ -53,9 +53,9 @@ Tools         Git · VS Code · Figma · Postman
 
 ## 🕐 now
 
-- 🔨 building and maintaining **Sadhna MSP Portal** — adding features, fixing things here and there when i get bored.
-- ☁️ running a homelab on **Azure** (Central India) — containers, VPN, self-hosted stuff like jelyyfin, sonarr,etc
-- 🔒 getting into **security research** — found a CVSS 9.8 vuln in a widely used school ERP :) (cant disclose the name ;-; sadly)
+- 🔨 building and maintaining **Sadhna MSP Portal**: adding features, fixing things here and there when i get bored.
+- ☁️ running a homelab on **Azure** (Central India): containers, VPN, self-hosted stuff like jelyyfin, sonarr,etc
+- 🔒 getting into **security research**: found a CVSS 9.8 vuln in a widely used school ERP :) (cant disclose the name ;-; sadly)
 
 ---
 
