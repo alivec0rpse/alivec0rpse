@@ -25,7 +25,7 @@ React + TypeScript + Express + SQLite. Docker image on Docker Hub. CI/CD via Git
 Three.js animations, mouse-tracking effects. Next.js 15 + React Three Fiber + Motion.
 
 **[Warsi Service Center](https://warsi.qzz.io)**: production site for a local auto workshop.
-Astro + Tailwind, custom domain, GitHub Pages deployment, SEO optimized.
+custom domain, GitHub Pages deployment, SEO optimized.
 
 ---
 
